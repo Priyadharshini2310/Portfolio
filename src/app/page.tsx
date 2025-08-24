@@ -68,7 +68,7 @@ export default function Home() {
         <TsHome
           titleComponent={
             <h2 className="text-white text-7xl font-bold mb-4">
-              Fluid and Interactive Animations
+              Fluid and Interactive Animations 
             </h2>
           }
         >

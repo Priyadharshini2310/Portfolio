@@ -1,44 +1,5 @@
 import React from "react";
 import { PinContainer } from "./proj";
-
-// const Proj1Home: React.FC = () => {
-//   return (
-//     <div className="flex justify-center items-center">
-//       <div className="h-full bg-black text-white px-6  flex flex-col lg:flex-row items-center gap-10 max-w-7xl mx-auto">
-//         {/* Left 1/4: Project Card */}
-//         <div className="w-full lg:w-1/4 flex justify-center ">
-//           <PinContainer
-//             title="View Project"
-//             href="https://app.docsynecx.com/"
-//             containerClassName="w-64 h-96"
-//             className="flex items-center justify-center"
-//           >
-//             <img
-//               src="/docsynecx.svg"
-//               alt="Sample Project"
-//               className="w-full h-full object-fit rounded-2xl z-0"
-//             />
-//           </PinContainer>
-//         </div>
-
-//         {/* Right 3/4: Text Section */}
-//         <div className="w-full lg:w-3/4 space-y-6 text-center lg:text-left">
-//           <h2 className="text-3xl sm:text-4xl font-bold text-white">
-//             Docsynecx - AI OCR
-//           </h2>
-//           <p className="text-gray-300 text-lg max-w-2xl">
-//             Built an end-to-end AI-powered OCR web application enabling users to
-//             upload, extract, and manage text from documents using generative AI.
-//             Developed with Next.js for the frontend and backend, and PostgreSQL
-//             for robust data management.
-//           </p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-
 const Proj1Home: React.FC = () => {
   return (
     <div className="flex justify-center items-center">
